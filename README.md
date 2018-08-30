@@ -1,9 +1,6 @@
 ## Welcome to Sandesh's Page
 
-Networking
-CIDR (Classless Inter-Domain Routing, sometimes called supernetting) is a way to allow more flexible allocation of Internet Protocol (IP) addresses than was possible with the original system of IP address classes. As a result, the number of available Internet addresses was greatly increased, which along with widespread use of network address translation (NAT), has significantly extended the useful life of IPv4.
-192.30.250.00/18
-The "192.30.250.0" is the network address itself and the "18" says that the first 18 bits are the network part of the address, leaving the last 14 bits for specific host addresses.
-
-network address translation (NAT) -> A NAT (Network Address Translation or Network Address Translator) is the virtualization of Internet Protocol (IP) addresses. NAT helps improve security and decrease the number of IP addresses an organization needs.
+The world’s leading software development platform GitHub is a web-based Git or version control repository and Internet hosting service. It offers Distributed Version Control and Source Code Management (SCM) functionality of Git as well as adding its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project. 
+GitHub Business provides administrative and security support for your business needs. With advanced auditing and monitoring tools, your team can work together on GitHub while meeting critical requirements in your own secure environment. GitHub is the best platform for open source projects, where you can discuss different solutions with like-minded people.
+GitHub Enterprise is On-premise version of GitHub.com, use GitHub Enterprise when you need complete control over repository and project information. GitHub Enterprise should be hosted on virtual environments like AWS, Microsoft Azure etc. GitHub Enterprise is a flexible, secure platform for building better software faster. Organization which needs both Collaboration and Security for their projects mostly use GitHub as the code hosting platform
 
